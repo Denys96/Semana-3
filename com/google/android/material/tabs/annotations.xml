@@ -1,0 +1,13 @@
+<root>
+    <item
+        name='com.google.android.material.tabs.TabLayout void setOnTabSelectedListener(com.google.android.material.tabs.TabLayout.OnTabSelectedListener)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+        <annotation name='org.jetbrains.annotations.NonBlocking' />
+    </item>
+    <item
+        name='com.google.android.material.tabs.TabLayout void setOnTabSelectedListener(com.google.android.material.tabs.TabLayout.OnTabSelectedListener) 0'>
+        <annotation name='org.jetbrains.annotations.Nullable' />
+    </item>
+</root>

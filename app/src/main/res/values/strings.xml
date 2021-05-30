@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Semana 3</string>
+    <string name="Canciones">Cancion</string>
+    <string name="Listadecanciones">Lista de canciones</string>
+    <string name="Artistas">Artista</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragListadecanciones">HOLA ESTAS EN LISTA DE CANCIONES</string>
+    <string name="fragCanciones">HOLA ESTAS EN LAS CANCIONES</string>
+    <string name="fragArtista">HOLA ESTAS EN LOS ARTISTAS</string>
+</resources>
